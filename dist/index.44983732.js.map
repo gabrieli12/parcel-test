@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,KAAK,SAAS,cAAc,CAAC;AACnC,IAAI;AAEJ,QAAQ,GAAG,CAAC,IAEZ,QAAQ","sources":["src/script.js"],"sourcesContent":["const h1 = document.getElementById('h1')\r\nlet name\r\n\r\nconsole.log(h1)\r\n\r\n// ge ge"],"names":[],"version":3,"file":"index.44983732.js.map","sourceRoot":"/__parcel_source_root/"}
